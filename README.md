@@ -58,14 +58,14 @@ O `relatorio_completo_infraestrutura_agil.md` é um documento abrangente que det
 *   **Processo de Integração Contínua:** Explicação passo a passo do fluxo de CI/CD conforme descrito no relatório original.
 *   **Conclusão:** Sumarização dos aprendizados e da importância das ferramentas no contexto de DevOps.
 
-## Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 *   **Python:** Para o desenvolvimento do agente automatizado.
 *   **Git:** Sistema de controle de versões.
 *   **GitLab CI/CD:** Plataforma de Integração Contínua e Entrega Contínua.
 *   **Docker Hub:** Registro de imagens de contêineres.
 
-## Autor
+Autor
 
-Este projeto e o agente automatizado foram desenvolvidos por **Manus AI**.
+Mateus Briet
 
