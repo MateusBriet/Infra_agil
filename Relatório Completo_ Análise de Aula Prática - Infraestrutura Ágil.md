@@ -1,8 +1,5 @@
 # Relatório Completo: Análise de Aula Prática - Infraestrutura Ágil
 
-**Autor:** Manus AI
-**Data:** 15 de Setembro de 2025
-
 ## 1. Introdução
 
 Este relatório tem como objetivo apresentar uma análise detalhada do "Relatório de Aula Prática - Infraestrutura Ágil" fornecido, destacando as aplicações e ferramentas utilizadas, os procedimentos realizados e as necessidades para a execução da atividade. O documento original descreve uma aula prática focada na simulação do monitoramento de um processo de pipeline de entrega utilizando o Git, com ênfase em conceitos de Integração Contínua (CI/CD).
